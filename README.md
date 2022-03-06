@@ -1,5 +1,14 @@
 ## Crawler App
 
+### Environment
+
+- OS: macOS Big Sur v11.5.1
+- PHP Version: 7.3.24
+- Laravel Framework Version: 8.83.3
+- Database: SQLite
+
+### Usage
+
 Clone the repository
 
     git clone https://github.com/ryotsu1036/crawler-app.git
