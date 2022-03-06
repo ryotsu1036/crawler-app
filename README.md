@@ -45,4 +45,8 @@ Running PHP development server
 
     php artisan serve
 
+Go to this page
+
+    http://127.0.0.1:8000/posts
+
 And then try it.
